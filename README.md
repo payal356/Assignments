@@ -13,7 +13,7 @@
 4. Write a program which accepts a sequence of comma-separated numbers from console and
    generate a list.
    
-5. Create the below pattern using nested for loop in Python.
+5. Create the star pattern using nested for loop in Python.
     *
     * *
     * * *
@@ -24,7 +24,7 @@
     * *
     *
     
-6.Write a Python program to reverse a word after accepting the input from the user.
+6. Write a Python program to reverse a word after accepting the input from the user.
 
 7. Write a Python Program to print the given string in the format specified in the sample output.
     WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a
