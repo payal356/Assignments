@@ -14,15 +14,6 @@
    generate a list.
    
 5. Create the star pattern using nested for loop in Python.
-    *
-    * *
-    * * *
-    * * * *
-    * * * * *
-    * * * *
-    * * *
-    * *
-    *
     
 6. Write a Python program to reverse a word after accepting the input from the user.
 
