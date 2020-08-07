@@ -60,6 +60,18 @@
    
 7. Write a Python function which takes a character (i.e. a string of length 1) and returns True if it is
    a vowel, False otherwise.   
+   
+# Assignment 3
+1. Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+2. Implement a Python program to generate all sentences where subject is in ["Americans",
+   "Indians"] and verb is in ["Play", "watch"] and the object is in ["Baseball","cricket"].
+
+3. Write a function so that the columns of the output matrix are powers of the input vector.
+   The order of the powers is determined by the increasing boolean argument. Specifically, when
+   increasing is False, the i-th output column is the input vector raised element-wise to the power
+   of N - i - 1.
+
     
     
     
